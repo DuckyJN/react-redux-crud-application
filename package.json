@@ -20,5 +20,18 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuckyJN/udemy-react-redux-crud-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuckyJN/udemy-react-redux-crud-application/issues"
+  },
+  "homepage": "https://github.com/DuckyJN/udemy-react-redux-crud-application#readme"
 }
